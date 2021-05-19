@@ -9,7 +9,7 @@ router
   .route("/:orderId")
   .put(controller.update)
   .get(controller.read)
-  .delete(controller.delete);
+  .delete(controller.delete)
   .all(methodNotAllowed);
 
 module.exports = router;
