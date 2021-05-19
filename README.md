@@ -1,1 +1,1 @@
-# grubdash-a-thunkfuk-project
+# grubdash-a-thinkful-project
